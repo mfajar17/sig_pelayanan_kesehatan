@@ -93,6 +93,9 @@
                 </tbody>
             </table>
         </div>
+        <div class="text-left">
+            <a href="index.php" class="btn btn-info waves-effect">Kembali</a>
+        </div>
     </div>
     <div class="col-lg-7" style="padding-top: 20px;">
         <div id="map"></div>
@@ -183,7 +186,7 @@
             $('#example').DataTable({
                 dom: 'Bfrtip',
                 responsive:true,
-                lengthMenu:[5,10,15,20,100]
+                lengthMenu:[4,10,15,20,100]
             });
         })
 
@@ -298,14 +301,14 @@
             );
         });
 
-        // map.addControl(
-        //     new mapboxgl.GeolocateControl({
-        //         positionOptions: {
-        //             enableHighAccuracy: true
-        //         },
-        //         trackUserLocation: true
-        //     })
-        // );
+        map.addControl(
+            new mapboxgl.GeolocateControl({
+                positionOptions: {
+                    enableHighAccuracy: true
+                },
+                trackUserLocation: true
+            })
+        );
         
         map.addControl(new mapboxgl.NavigationControl());
 
