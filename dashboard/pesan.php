@@ -232,7 +232,6 @@ $login=$b->fetch_assoc();
                     <p id="isi_pesan"></p>
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-link waves-effect">SAVE CHANGES</button>
                     <button type="button" class="btn btn-link waves-effect" data-dismiss="modal">CLOSE</button>
                 </div>
             </div>
