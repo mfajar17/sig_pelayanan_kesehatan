@@ -1,0 +1,30 @@
+id,nama,alamat,longitude,latitude,tipe
+1,Praktek Dokter Nur Laili Susanti,"Jl. Joyo Suryo, Tlogomas, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",112.602148,-7.937604,Dokter Praktek
+2,Praktek Umum Dr. Dhanti Hermawan,"Jl. MT Haryono Gg. VIII Jl. MT. Haryono, Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",112.608317,-7.940883,Dokter Praktek
+3,Praktek Dr. Rejekining Diah,"Jalan Mayjend Jl. MT. Haryono No.110, Dinoyo, Lowokwaru, Malang City, East Java 65144",112.609375,-7.942076,Dokter Praktek
+4,Praktek dr. Wahyu Purnomo dan dr. Emmi Wijayanti,"Jl. Joyo Tambaksari No.30 B, Merjosari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",112.606386,-7.944394,Dokter Praktek
+5,Praktek Umum Dr. Feny Tunjungsari,"Jl. Soekarno Hatta No.6, Mojolangu, Kec. Lowokwaru, Kota Malang, Jawa Timur 65142",112.631643,-7.939524,Dokter Praktek
+6,Praktek Dokter Bersama,"Jl. Laksda Adi Sucipto No.150, Blimbing, Kec. Blimbing, Kota Malang, Jawa Timur 65126",112.648604,-7.944106,Dokter Praktek
+7,Dokter Anak Dr. Astri. Sp.a,"Jl. Sigura - Gura, Karangbesuki, Kec. Sukun, Kota Malang, Jawa Timur 65145",112.605866,-7.957004,Dokter Praktek
+8,"Praktek Dokter Spesialis Anak dr. Ery Olivianto, SpA","ruko kav 6, Jl. Terusan Sulfat, Pandanwangi, Kec. Blimbing, Kota Malang, Jawa Timur",112.656941,-7.963983,Dokter Praktek
+9,"Dokter Spesialis Penyakit Dalam Dr. A. Heri Susanto, Sp.PD","Alveoli Praktek Dokter Bersama, Jl. Sulfat No.84, Purwantoro, Kec. Blimbing, Kota Malang, Jawa Timur 65122",112.648476,-7.959348,Dokter Praktek
+10,Praktek umum Dr. Frieska,"Jl. Bend. Nawangan No.5, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",112.611033,-7.960977,Dokter Praktek
+11,"Spesialis Kulit Dan Kelamin Dr. Boedhy Setyanto, SpKK","Apotek Kimia Farma, Jl. MT. Haryono No.110, Dinoyo, Lowokwaru, Malang City, East Java 65144",112.609403,-7.941962,Dokter Praktek
+12,Dr. L.N Rachma,"Jl. Joyo Suryo, Merjosari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",112.60153,-7.940612,Dokter Praktek
+13,"Praktek Dokter dr. H. Marindra ,FM","Jl. Tlk. Grajakan, Pandanwangi, Kec. Blimbing, Kota Malang, Jawa Timur 65125",112.657597,-7.946532,Dokter Praktek
+14,Dr. Chandra Eka AP Praktek Umum,"Jl. Mayjend Panjaitan No.162, Penanggungan, Kec. Klojen, Kota Malang, Jawa Timur 65113",112.619672,-7.953441,Dokter Praktek
+15,Praktek Umum Dr. Putu Yuda,"Jl. Setaman No.5, Lowokwaru, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",112.632425,-7.953165,Dokter Praktek
+16,Dr. Anton. A. M. MMRS,"Jl. Raya Candi VD, Karangbesuki, Kec. Sukun, Kota Malang, Jawa Timur 65146",112.59927,-7.957585,Dokter Praktek
+17,Praktek Umum Dr. Emira Darmawati,"Jl. Raya Cemorokandang, Madyopuro, Kec. Kedungkandang, Kota Malang, Jawa Timur 65139",112.675019,-7.975287,Dokter Praktek
+18,Dokter Umum Dr Qurratul Aini,"Jl. Raya Cemorokandang, Cemorokandang, Kec. Kedungkandang, Kota Malang, Jawa Timur 65139",112.681791,-7.978888,Dokter Praktek
+19,Praktek Umum dr.HM Sudarto,"Jl. Kaliurang Bar., Samaan, Kec. Klojen, Kota Malang, Jawa Timur 65112",112.628815,-7.961278,Dokter Praktek
+20,Praktek Dr. dr. Suparno,"Jl. Letjen Sutoyo No.4, Lowokwaru, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",112.636617,-7.960178,Dokter Praktek
+21,"Praktek dr. Soemakto,Sp.A(K)","Jl. Tambora No.21, Karangbesuki, Kec. Sukun, Kota Malang, Jawa Timur 65146",112.611208,-7.969442,Dokter Praktek
+22,Praktek Dokter Dr. M Kamal Hadi,"Jl. Galunggung, Gading Kasri, Kec. Klojen, Kota Malang, Jawa Timur 65115",112.613762,-7.969944,Dokter Praktek
+23,"Praktek Dokter Olly Indrayani,Sp.PD.","Jl. Dempo No.4, Oro-oro Dowo, Kec. Klojen, Kota Malang, Jawa Timur 65119",112.621319,-7.969298,Dokter Praktek
+24,Praktek Dokter Yusuf Ardian,"Ruko Sawojajar Mas, Jalan Danau Toba, Sawojajar, Kedungkandang, Sawojajar, Kec. Kedungkandang, Kota Malang, Jawa Timur 65139",112.656756,-7.980369,Dokter Praktek
+25,Praktek Dokter Ervina Wijaya,"Jl. I.R. Rais, Tanjungrejo, Kec. Sukun, Kota Malang, Jawa Timur 65119",112.614887,-7.983562,Dokter Praktek
+26,Dr. Harjono Praktek Umum,"Jl. Brigjend. Katamso, Kauman, Kec. Klojen, Kota Malang, Jawa Timur 65119",112.624747,-7.983591,Dokter Praktek
+27,Praktek Bersama Dokter Spesialis & Laboratorium Nusakambangan,"Jl. Nusakambangan, Kasin, Kec. Klojen, Kota Malang, Jawa Timur 65117",112.625067,-7.987759,Dokter Praktek
+28,Praktek Dokter Umum,"Jl. Kyai Tamin 71, Sukoharjo, Kec. Klojen, Kota Malang, Jawa Timur 65118",112.633344,-7.988544,Dokter Praktek
+29,Praktek Dokter Umum,"Jl. Raya Sidorahayu, Sidorahayu, Kec. Sukun, Kota Malang, Jawa Timur 65158",112.598097,-8.003603,Dokter Praktek

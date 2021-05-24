@@ -1,0 +1,31 @@
+id,nama,alamat,longitude,latitude,tipe
+1,Apotek Paramita,"P, A-1, Jl. A. Yani, Purwodadi, Kec. Blimbing, Kota Malang, Jawa Timur 65128",112.645153,-7.935635,Apotek
+2,Apotek Jingga Farma,"Ruko Puncak Borobudur, Jalan Terusan Soekarno Hatta No.Kav. 1, Mojolangu, Kec. Lowokwaru, Kota Malang, Jawa Timur 65142",112.626143,-7.936519,Apotek
+3,Apotek Cempaka,"Jl. Laksda Adi Sucipto No.54, Blimbing, Kec. Blimbing, Kota Malang, Jawa Timur 65126",112.645011,-7.942136,Apotek
+4,Apotek Andhika,"Jl. MT. Haryono, Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",112.609753,-7.942356,Apotek
+5,Amanah Husana Apotek,"Jl. Kalpataru No.18, Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",112.631259,-7.950828,Apotek
+6,Apotek Pandanwangi,"Jl. Simpang Sulfat Utara No.48, Pandanwangi, Kec. Blimbing, Kota Malang, Jawa Timur 65124",112.655924,-7.957909,Apotek
+7,Apotek Pelita Sari,"Jl. Letjen Sutoyo No.31A, RW.3, Lowokwaru, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",112.636177,-7.961573,Apotek
+8,Apotek Sutami,"Jl. Bendungan Sutami No.3, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",112.613346,-7.960759,Apotek
+9,Aptoek Efata,"Jl. Galunggung, Gading Kasri, Kec. Klojen, Kota Malang, Jawa Timur 65115",112.613438,-7.968584,Apotek
+10,Kimia Farma No.36 Malang,"Jl. Ijen No.88, Oro-oro Dowo, Kec. Klojen, Kota Malang, Jawa Timur 65116",112.625045,-7.963681,Apotek
+11,Apotek Sumber Laris ,"Jl. Pahlawan Trip No.17, Oro-oro Dowo, Kec. Klojen, Kota Malang, Jawa Timur 65119",112.62068,-7.967721,Apotek
+12,Pandermen Apotek,"Jl. Panderman No.6, Gading Kasri, Kec. Klojen, Kota Malang, Jawa Timur 65115",112.620039,-7.974606,Apotek
+13,Tanjung Apotek ,"JL. Ihwan Ridwan Rais No.88, Bareng, Kec. Klojen, Kota Malang, Jawa Timur 65116",112.615048,-7.983274,Apotek
+14,Apotek Sukun Farma,"Jl. S. Supriadi No.24, Sukun, Kec. Sukun, Kota Malang, Jawa Timur 65147",112.620148,-7.994191,Apotek
+15,Apotek Deltara,"Jl. Raya Tumenggung Suryo, Purwantoro, Kec. Blimbing, Kota Malang, Jawa Timur 65126",112.641061,-7.962595,Apotek
+16,Apotek Sulfat,"Jl. Terusan Sulfat, Bunulrejo, Kec. Blimbing, Kota Malang, Jawa Timur 65126",112.659219,-7.966039,Apotek
+17,Apotek Bunul Farma,"Jalan Hamid Rusdi No.101 G, Kesatrian, Blimbing, Bunulrejo, Kec. Blimbing, Kota Malang, Jawa Timur 65126",112.64428,-7.971477,Apotek
+18,Apotek Kamilia,"Jl. Danau Bratan No.A/16, Lesanpuro, Kec. Kedungkandang, Kota Malang, Jawa Timur 65139",112.663444,-7.976394,Apotek
+19,Apotek Mataram Segar,"Jalan Danau Toba Ruko Blok B No.16, Sawojajar, Kec. Kedungkandang, Kota Malang, Jawa Timur 65138",112.656231,-7.980605,Apotek
+20,Apotek Pajajaran,"Jl. Pajajaran No.12, Klojen, Kec. Klojen, Kota Malang, Jawa Timur 65111",112.635811,-7.975718,Apotek
+21,Apotek Berlima,"Jl. Aries Munandar, Kiduldalem, Kec. Klojen, Kota Malang, Jawa Timur 65119",112.634446,-7.981568,Apotek
+22,Apotek Sejati,"Jl. Merdeka Timur No.2-10, Sukoharjo, Kec. Klojen, Kota Malang, Jawa Timur 65119",112.631747,-7.982672,Apotek
+23,Apotek Jaya Sehat,"Jl. Pasar Besar No.90, Sukoharjo, Kec. Klojen, Kota Malang, Jawa Timur 65118",112.633995,-7.986412,Apotek
+24,Apotek Airlangga,"Jl. Kyai Tamin, Sukoharjo, Kec. Klojen, Kota Malang, Jawa Timur 65118",112.632375,-7.988208,Apotek
+25,Apotek Nusakambangan ,"Jl. Nusakambangan No.29, Kasin, Kec. Klojen, Kota Malang, Jawa Timur 65117",112.624253,-7.987233,Apotek
+26,Apotek Sukun Farma,"Jl. S. Supriadi No.24, Sukun, Kec. Sukun, Kota Malang, Jawa Timur 65147",112.620148,-7.994191,Apotek
+27,Apotek Merjosari,"Jl. Joyo Tambaksari No.32 A, Merjosari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",112.605964,-7.944403,Apotek
+28,Apotek K-24 Gajayana,"Jl. Raya Sumbersari No.Kav. 4, Ketawanggede, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",112.609113,-7.951851,Apotek
+29,Apotek Medika 24,"Jl. Bend. Sigura-Gura Barat, Karangbesuki, Kec. Sukun, Kota Malang, Jawa Timur 65149",122.606107,-7.955689,Apotek
+30,Apotek Telaga Nabi,"Jl. Raya Sumbersari No.254C, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",122.611094,-7.954763,Apotek
